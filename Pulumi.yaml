@@ -1,0 +1,11 @@
+name: uablue.art
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+description: Bluesky art domain automation
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-python
