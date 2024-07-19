@@ -23,6 +23,11 @@ records = [
     #     "name": "_atproto.ypypy",
     #     "value": "did=did:plc:hjmoaf4qr27t4afutdegggfh"
     # }
+    
+    {
+        "name": "test",
+        "value": "did=moroz"
+    }
 ]
 
 for record in records:
