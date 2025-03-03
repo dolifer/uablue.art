@@ -22,6 +22,10 @@ records = [
     {
         "name": "_atproto.ypypy",
         "value": "did=did:plc:hjmoaf4qr27t4afutdegggfh"
+    },
+    {
+        "name": "_atproto.pixel",
+        "value": "did=did:plc:a6xovqvhgrf6lx4z3nzkk2v4"
     }
 ]
 
